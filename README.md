@@ -21,8 +21,8 @@
 <h2> 🤳 Connect with me:</h2> 
 
  📧 [Email]: ktcliff24@gmail.com 
-  [linkedin]: http://www.linkedin.com/in/ktcliff/ 
-  [instagram]: https://www.instagram.com/kt.cliff/ 
+ 💼 [linkedin]: http://www.linkedin.com/in/ktcliff/ 
+ 📷 [instagram]: https://www.instagram.com/kt.cliff/ 
 
 
 <!--
