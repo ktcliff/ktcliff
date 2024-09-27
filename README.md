@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kristen! <br/><a href="https://github.com/ktcliff"></a> <a href="http://www.linkedin.com/in/ktcliff">Technology Enthusiast</a></h1>
+<h1>Hi, I'm Kristen! <br/><a href="https://github.com/ktcliff"></a> <a href="http://www.linkedin.com/in/ktcliff">Technology Enthusiast & Aspiring Web Developer</a></h1>
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
