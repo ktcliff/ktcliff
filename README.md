@@ -9,9 +9,7 @@
   - [Music Storage Library](https://github.com/ktcliff/MusicLib)
   - [The Lengend Of Zelda themed Rock, Paper, Scissors](https://github.com/ktcliff/ZeldaRPS)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Pong Game Clone]
-  - (https://github.com/ktcliff/PongClone)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Pong Game Clone](https://github.com/ktcliff/PongClone)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
