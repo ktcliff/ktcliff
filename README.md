@@ -12,7 +12,7 @@
   - [Pong Game Clone](https://github.com/ktcliff/PongClone)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Data Poisoning Demo for Research Project](https://github.com/ktcliff/SequentialModelPoisoning)
 
 <h2> 🤳 Connect with me:</h2> 
 
