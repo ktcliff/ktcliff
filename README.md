@@ -2,17 +2,16 @@
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Poisoning Demo for Research Project</b>
+  - [Data Poisoning on a Sequential Model](https://github.com/ktcliff/SequentialModelPoisoning)
 - <b>Full Stack Web Apps (Python, SQLite, React, NodeJS, Django)</b>
   - [React API Movie DB](https://github.com/ktcliff/ReactAPIMovieDB)
   - [Music Storage Library](https://github.com/ktcliff/MusicLib)
   - [The Lengend Of Zelda themed Rock, Paper, Scissors](https://github.com/ktcliff/ZeldaRPS)
 - <b>C# (.NET Desktop Applications)</b>
   - [Pong Game Clone](https://github.com/ktcliff/PongClone)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Data Poisoning Demo for Research Project](https://github.com/ktcliff/SequentialModelPoisoning)
+  - [Data Analysis Project](https://github.com/ktcliff/MyPetStoreDataAnalysisProject)
 
 <h2> 🤳 Connect with me:</h2> 
 
