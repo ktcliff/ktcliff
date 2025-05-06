@@ -17,7 +17,7 @@
 
  📧 [Email]: ktcliff24@gmail.com 
  💼 [Linkedin]: http://www.linkedin.com/in/ktcliff/ 
- 📷 [Instagram]: https://www.instagram.com/kt.cliff/ 
+ 📷 [Instagram]: https://www.instagram.com/kt_clifford/ 
 
 
 <!--
